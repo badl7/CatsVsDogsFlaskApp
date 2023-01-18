@@ -77,7 +77,7 @@ During this project, we need to answer these following questions:
   - How to handle backend error
   - How to make real-time prediction
   - Combine the model with the app
-
+<!---
 ## SETUP ENVIRONMENT
 
 * In order to run our model on a Flask application locally, you need to clone this repository and then set up the environment by these following commands:
@@ -124,16 +124,18 @@ pipenv run flask run
 ```
 
 * If you want to exit `pipenv shell`, use `exit`
-
+--->
 ## HOW IT WORK: CONVOLUTIONAL NEURAL NETWORK (CNN)
-
-This is the project that we finished after studying ** “Convolutional Neural Networks in TensorFlow” course.**
-This course is part of the highly sought-after “DeepLearning.AI TensorFlow Developer Professional Certificate” program on Coursera.
 
 <p align="center">
   <img width="760" height="400" src="https://miro.medium.com/max/1838/1*oB3S5yHHhvougJkPXuc8og.gif">
 </p>
-You can find details in the [article](https://medium.com/@betul.gurbuz.dev/convnets-cnn-74aa18f2d543)
+
+This is the project that we finished after studying **Convolutional Neural Networks in TensorFlow** course.
+This course is part of the highly sought-after “DeepLearning.AI TensorFlow Developer Professional Certificate” program on Coursera.
+The InceptionV3 of the model is available [here](https://github.com/badl7/TensorFlow_Developer/blob/main/Cnn_in_TensorFlow/inception_v3_catVSdog.ipynb).
+
+You can find details in the [article](https://medium.com/@betul.gurbuz.dev/convnets-cnn-74aa18f2d543).
 
 ### Next Steps
 
