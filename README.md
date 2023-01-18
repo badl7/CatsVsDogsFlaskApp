@@ -4,23 +4,24 @@
 
 A simple Flask App that can classify an image as Dog or Cat using a convolutional neural network model.
 
-I
-
+**HOME PAGE**
 <p align="center">
 
-<img src='static/img/home.png'>
+<img src='dogscatsapp/static/img/home.png'>
 
 </p>
 
+**PREDICT BUTTON**
 <p align="center">
 
-<img src='static/img/predict.png'>
+<img src='dogscatsapp/static/img/predict.png'>
 
 </p>
 
+**PREDICTION PAGE**
 <p align="center">
 
-<img src='static/img/prediction.png'>
+<img src='dogscatsapp/static/img/prediction.png'>
 
 </p>
 
